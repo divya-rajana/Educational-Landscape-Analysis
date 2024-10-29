@@ -11,10 +11,10 @@ Data File (Excel): The cleaned and processed data file, available in Excel forma
 Power BI Dashboard: An interactive Power BI dashboard visualizes the data, presenting insights on college distribution by zone and state, comparison of fees between government and private institutions, average ratings by zone, and more. The dashboard enables users to filter data by zone, state, ownership type, fees, and ratings.
 
 Key Insights
-Distribution of colleges across different regions in India.
-Comparison of average fees for government vs. private colleges.
-Average course offerings by zone.
-Interactive features for personalized exploration of college data.
+1. Distribution of colleges across different regions in India.
+2. Comparison of average fees for government vs. private colleges.
+3. Average course offerings by zone.
+4. Interactive features for personalized exploration of college data.
 
 Folder Structure
 /Dataset: CSV file contains college data.
